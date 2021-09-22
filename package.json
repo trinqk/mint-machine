@@ -1,0 +1,23 @@
+{
+  "name": "mint-machine",
+  "description": "MintMachine smart-contract",
+  "version": "1.0.0",
+  "author": "trinqk",
+  "license": "MIT",
+  "keywords": [
+    "smart contracts",
+    "ethereum"
+  ],
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.1.0",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "chai": "^4.3.4",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.3.1",
+    "hardhat": "^2.4.0"
+  }
+}
